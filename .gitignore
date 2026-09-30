@@ -1,0 +1,15 @@
+# Gradle and Android Studio
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+local.properties
+
+# Local build staging and distributables
+work/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
